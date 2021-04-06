@@ -1,0 +1,4 @@
+matplotlib
+numpy
+tensorflow-datasets
+-e git+https://github.com/tensorflow/examples.git#egg=tensorflow-examples
